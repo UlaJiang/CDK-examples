@@ -33,6 +33,7 @@ phases:
       # - command
   build:
     commands:
+      - echo "hello"
       # - command
       # - command
   #post_build:
