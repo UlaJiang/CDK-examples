@@ -1,2 +1,3 @@
 test merge to trigger webhook on codebuild - test PULL_REQUEST_CREATED & PUSH
 v2
+test for closed merge 
