@@ -33,7 +33,8 @@ phases:
       # - command
   build:
     commands:
-      - echo "hello vvv4"
+      - echo "hello v3"
+      - echo "hello ulllla"
       - echo "CODEBUILD_BUILD_ID" $CODEBUILD_BUILD_ID
       - echo "CODEBUILD_SOURCE_VERSION" $CODEBUILD_SOURCE_VERSION
       - echo "CODEBUILD_WEBHOOK_TRIGGER" $CODEBUILD_WEBHOOK_TRIGGER
