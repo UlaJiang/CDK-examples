@@ -34,6 +34,7 @@ phases:
   build:
     commands:
       - echo "hello v3"
+      - echo "hello jacky"
       - echo "hello ulllla"
       - echo "CODEBUILD_BUILD_ID" $CODEBUILD_BUILD_ID
       - echo "CODEBUILD_SOURCE_VERSION" $CODEBUILD_SOURCE_VERSION
