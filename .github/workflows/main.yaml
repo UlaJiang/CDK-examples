@@ -1,4 +1,4 @@
-name: CodeGuru Security Example - /dev
+name: CodeGuru Security Example - :/dev
 on:
   push:
     branches:
